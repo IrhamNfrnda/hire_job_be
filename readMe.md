@@ -4,6 +4,8 @@
 
 This is a RESTful API for a hire job app built using Express.js. The API allows users to perform CRUD operations on user data and experience data, and also provides authentication using JWT (JSON Web Tokens). Users can also retrieve their own profile data.
 
+[Hire Job]([https://github.com/IrhamNfrnda/hire-job-fe](https://hire-job-fe-theta.vercel.app/))
+
 ## Technologies Used 💻🛠️
 
 The Hire Job BackEnd project is built using the following technologies:
