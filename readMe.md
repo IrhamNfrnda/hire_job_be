@@ -23,6 +23,9 @@ The Hire Job BackEnd project is built using the following technologies:
 The Front End repository for this project can be found on GitHub at the following link:
 [Hire Job Front End Repository](https://github.com/IrhamNfrnda/hire-job-fe)
 
+The Postman Documentation for this project can be found on GitHub at the following link:
+[Hire Job Postman Documentation](https://elements.getpostman.com/redirect?entityId=26602283-94d4c1e1-835b-46b7-9c47-64d7d2cd4eae&entityType=collection)
+
 ## Features ✨👔📝
 
 - RESTful API endpoints for user data (CRUD operations)
